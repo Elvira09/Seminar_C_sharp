@@ -1,0 +1,15 @@
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/045/obj/Debug/net6.0/045.csproj.AssemblyReference.cache
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/045/obj/Debug/net6.0/045.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/045/obj/Debug/net6.0/045.AssemblyInfoInputs.cache
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/045/obj/Debug/net6.0/045.AssemblyInfo.cs
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/045/obj/Debug/net6.0/045.csproj.CoreCompileInputs.cache
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/045/bin/Debug/net6.0/045
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/045/bin/Debug/net6.0/045.deps.json
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/045/bin/Debug/net6.0/045.runtimeconfig.json
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/045/bin/Debug/net6.0/045.dll
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/045/bin/Debug/net6.0/ref/045.dll
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/045/bin/Debug/net6.0/045.pdb
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/045/obj/Debug/net6.0/045.dll
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/045/obj/Debug/net6.0/ref/045.dll
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/045/obj/Debug/net6.0/045.pdb
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/045/obj/Debug/net6.0/045.genruntimeconfig.cache

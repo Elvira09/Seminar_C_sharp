@@ -1,0 +1,15 @@
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/060_word/obj/Debug/net6.0/060_word.csproj.AssemblyReference.cache
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/060_word/obj/Debug/net6.0/060_word.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/060_word/obj/Debug/net6.0/060_word.AssemblyInfoInputs.cache
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/060_word/obj/Debug/net6.0/060_word.AssemblyInfo.cs
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/060_word/obj/Debug/net6.0/060_word.csproj.CoreCompileInputs.cache
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/060_word/bin/Debug/net6.0/060_word
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/060_word/bin/Debug/net6.0/060_word.deps.json
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/060_word/bin/Debug/net6.0/060_word.runtimeconfig.json
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/060_word/bin/Debug/net6.0/060_word.dll
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/060_word/bin/Debug/net6.0/ref/060_word.dll
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/060_word/bin/Debug/net6.0/060_word.pdb
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/060_word/obj/Debug/net6.0/060_word.dll
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/060_word/obj/Debug/net6.0/ref/060_word.dll
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/060_word/obj/Debug/net6.0/060_word.pdb
+/Users/pavelzagrebnev/Desktop/GB/Программирование С/Seminar/060_word/obj/Debug/net6.0/060_word.genruntimeconfig.cache
