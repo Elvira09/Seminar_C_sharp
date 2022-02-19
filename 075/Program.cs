@@ -1,20 +1,18 @@
 ﻿// 75. Есть два массива info и data. 
 
-// Массив data состоит из нулей и единиц хранящий числа в двоичном представлении. Числа идут друг за другом без разделителей. 
+// Массив data состоит из нулей и единиц хранящий числа в двоичном представлении. 
+// Числа идут друг за другом без разделителей. 
 
 // Массив info состоит из чисел, которые представляют колличество бит чисел из массива data.
 
 // Составить массив десятичных представлений чисел массива data с учётом информации из массива info. 
 
 // Пример:
-// ```
 // входные данные:
 // data = {0, 1, 1, 1, 1, 0, 0, 0, 1 }
 // info = {2, 3, 3, 1 }
-
 // выходные данные:
 // 1, 7, 0, 1
-// ```
 
 // Какие ошибки могут возникнуть при обработке наборов данных?
 
@@ -47,15 +45,12 @@ foreach (int el in data)
 
 // Создаем новый массив с результатом конвертации
 int startIndex = 0;
-int length = 2;
 int[] newData = new int[info.Length];
 
-for (int i = 0; i < length; i++)
+for (int i = 0; i < info.Length; i++)
 {
-	newData[0] = Convert.ToInt32((str.Substring(startIndex, info[0])), 2);
-	newData[1] = Convert.ToInt32((str.Substring(startIndex + info[0], info[1])), 2);
-	newData[2] = Convert.ToInt32((str.Substring(startIndex + info[0] + info[1], info[2])), 2);
-	newData[3] = Convert.ToInt32((str.Substring(startIndex + info[0] + info[1] + info[2], info[3])), 2);
+	newData[i] = Convert.ToInt32((str.Substring(startIndex, info[i])), 2);
+	startIndex = startIndex + info[i];
 }
 
 Console.WriteLine("Результат: ");
